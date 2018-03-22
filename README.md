@@ -1,0 +1,2 @@
+# wmgselfblog.github.io
+blog
