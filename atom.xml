@@ -3,11 +3,11 @@
   <title>MyBlog</title>
   
   <subtitle>sub</subtitle>
-  <link href="/blog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="http://gitwmg.gitee.io/blog/"/>
+  <link href="http://wmgselfblog.github.io/"/>
   <updated>2018-05-27T06:17:47.883Z</updated>
-  <id>http://gitwmg.gitee.io/blog/</id>
+  <id>http://wmgselfblog.github.io/</id>
   
   <author>
     <name>王</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://gitwmg.gitee.io/blog/2018/05/27/hello-world/"/>
-    <id>http://gitwmg.gitee.io/blog/2018/05/27/hello-world/</id>
+    <link href="http://wmgselfblog.github.io/2018/05/27/hello-world/"/>
+    <id>http://wmgselfblog.github.io/2018/05/27/hello-world/</id>
     <published>2018-05-27T06:17:47.882Z</published>
     <updated>2018-05-27T06:17:47.883Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>搭建个人博客</title>
-    <link href="http://gitwmg.gitee.io/blog/2018/05/27/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://gitwmg.gitee.io/blog/2018/05/27/搭建个人博客/</id>
+    <link href="http://wmgselfblog.github.io/2018/05/27/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://wmgselfblog.github.io/2018/05/27/搭建个人博客/</id>
     <published>2018-05-26T16:00:00.000Z</published>
     <updated>2018-05-27T06:46:54.324Z</updated>
     
@@ -55,10 +55,10 @@
     
     </summary>
     
-      <category term="博客" scheme="http://gitwmg.gitee.io/blog/categories/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="博客" scheme="http://wmgselfblog.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
-      <category term="教程" scheme="http://gitwmg.gitee.io/blog/tags/%E6%95%99%E7%A8%8B/"/>
+      <category term="教程" scheme="http://wmgselfblog.github.io/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
